@@ -7,6 +7,48 @@
 				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/1.jpg",
 				"dimensions": "2823 x 2223",
 				"copyright": "1940"
+			},
+			{
+				"name": "Composition",
+				"author": "Wassily Kandinsky",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/2.jpg",
+				"dimensions": "1280 x 1159",
+				"copyright": "1919"
+			},
+			{
+				"name": "Suprematist composition",
+				"author": "Kazimir Malevich",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/3.jpg",
+				"dimensions": "1400 x 1867",
+				"copyright": "1916"
+			},
+			{
+				"name": "Absinthe Drinker",
+				"author": "Pablo Picasso",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/4.jpg",
+				"dimensions": "1415 x 1920",
+				"copyright": "1901-02"
+			},
+			{
+				"name": "Composition",
+				"author": "Lyubov Popova",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/5.jpg",
+				"dimensions": "1280 x 1443",
+				"copyright": "1918"
+			},
+			{
+				"name": "Evening Spider Promises Hope",
+				"author": "Salvador Dali",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/6.jpg",
+				"dimensions": "2380 x 1914",
+				"copyright": "1940"
+			},
+			{
+				"name": "The Temptation of St.Anthony",
+				"author": "Salvador Dali",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/71.jpg",
+				"dimensions": "2580 x 1888",
+				"copyright": "1946"
 			}
 		]
 }
