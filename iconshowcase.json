@@ -2,30 +2,28 @@
 	"wallpapers": 
 		[
 			{
-				"name": "Woman with Rake",
-				"author": "Malevich",
-				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/2.jpg",
-				"dimensions": "1466x1920"
-			},
-			{
-				"name": "Dora Maar with cat",
-				"author": "Pablo Picasso",
-				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/3.jpg",
-				"dimensions": "1000x1365"
-			},
-			{
+				"name": "Book Transforming Itself into a Nude Woman",
 				"author": "Salvador Dali",
 				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/1.jpg",
-				"name": "The Temptation of Saint Anthony",
-				"dimensions": "2580x1888",
-				"copyright": "Kizimir"
+				"copyright": "1940"
 			},
 			{
-				"name": "Hey yo",
-				"author": "Roy Lichtenstein",
-				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/4.jpg",
-				"dimensions": "1501 x 2016",
-				"copyright": "Copyright A© 2016 Kizik."
+				"name": "Composition",
+				"author": "Wassily Kandinsky",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/2.jpg",
+				"dimensions": "1919"
+			},
+			{
+				"namer": "Suprematist composition",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/3.jpg",
+				"author": "Kazimir Malevich",
+				"copyright": "1916"
+			},
+			{
+				"name": "The Temptation of St.Anthony",
+				"author": "Salvador Dali",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/71.jpg",
+				"copyright": "1946"
 			}
 		]
 }
