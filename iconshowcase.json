@@ -20,6 +20,12 @@
 				"copyright": "1916"
 			},
 			{
+				"name": "Landscape",
+				"author": "Rene Magritte",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/72.jpg",
+				"copyright": "1920"
+			},
+			{
 				"name": "Absinthe Drinker",
 				"author": "Pablo Picasso",
 				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/4.jpg",
@@ -42,6 +48,12 @@
 				"author": "Roy Lichtenstein",
 				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/7.jpg",
 				"copyright": "1965"
+			},
+			{
+				"name": "Popular panorama",
+				"author": "Rene Magritte",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/73.jpg",
+				"copyright": "1926"
 			},
 			{
 				"name": "The Wedding Party on the Eiffel Tower",
