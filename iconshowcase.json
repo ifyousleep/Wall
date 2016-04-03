@@ -68,6 +68,12 @@
 				"copyright": "1924"
 			},
 			{
+				"name": "The Elephant Celebes",
+				"author": "Max Ernst",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/90.jpg",
+				"copyright": "1921"
+			},
+			{
 				"name": "La commedia la tragedia",
 				"author": "Giorgio de Chirico",
 				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/85.jpg",
@@ -174,6 +180,12 @@
 				"author": "Roy Lichtenstein",
 				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/23.png",
 				"copyright": "1964"
+			},
+			{
+				"name": "Ubu Imperator",
+				"author": "Max Ernst",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/89.jpg",
+				"copyright": "1923"
 			},
 			{
 				"name": "The Dream ",
@@ -356,6 +368,12 @@
 				"copyright": "1907"
 			},
 			{
+				"name": "Hector And Andromache",
+				"author": "Giorgio de Chirico",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/86.jpg",
+				"copyright": "1917"
+			},
+			{
 				"name": "The anger of gods",
 				"author": "Rene Magritte",
 				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/83.jpg",
@@ -408,6 +426,12 @@
 				"author": "Wassily Kandinsky",
 				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/55.jpg",
 				"copyright": "1930"
+			},
+			{
+				"name": "Turin Spring",
+				"author": "Giorgio de Chirico",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/87.jpg",
+				"copyright": "1914"
 			},
 			{
 				"name": "Les baigneuses (Bathers)",
@@ -510,6 +534,12 @@
 				"author": "Salvador Dali",
 				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/71.jpg",
 				"copyright": "1946"
+			},
+			{
+				"name": "At the first clear word",
+				"author": "Max Ernst",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/88.jpg",
+				"copyright": "1923"
 			}
 		]
 }
