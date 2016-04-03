@@ -68,6 +68,12 @@
 				"copyright": "1924"
 			},
 			{
+				"name": "La commedia la tragedia",
+				"author": "Giorgio de Chirico",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/85.jpg",
+				"copyright": "1926"
+			},
+			{
 				"name": "Winter Landscape",
 				"author": "Wassily Kandinsky",
 				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/10.jpg",
@@ -326,6 +332,12 @@
 				"copyright": "1957"
 			},
 			{
+				"name": "The Victory",
+				"author": "Rene Magritte",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/82.jpg",
+				"copyright": "1939"
+			},
+			{
 				"name": "The lady at the piano",
 				"author": "Kazimir Malevich",
 				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/46.jpg",
@@ -342,6 +354,12 @@
 				"author": "Pablo Picasso",
 				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/48.jpg",
 				"copyright": "1907"
+			},
+			{
+				"name": "The anger of gods",
+				"author": "Rene Magritte",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/83.jpg",
+				"copyright": "1960"
 			},
 			{
 				"name": "Graceful Ascent",
@@ -372,6 +390,12 @@
 				"author": "Roy Lichtenstein",
 				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/53.jpg",
 				"copyright": "1994"
+			},
+			{
+				"name": "Good Fortune",
+				"author": "Rene Magritte",
+				"url": "https://raw.githubusercontent.com/ifyousleep/Wall/master/84.jpg",
+				"copyright": "1939"
 			},
 			{
 				"name": "Untitled",
